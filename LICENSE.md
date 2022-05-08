@@ -1,6 +1,7 @@
-# Misilelab license v1.6
+# Misilelab license v1.7
 
-Author information : Base repository by MisileLaboratory
+Default author information : Base repository by MisileLaboratory  
+You can override author in subproject like `Override author information: Base repository by Misile`
 
 ## derivative works condition
 
