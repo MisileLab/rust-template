@@ -1,4 +1,4 @@
-license = "misilelab license"
+licenses = ["misilelab license"]
 
 [advisories]
 db-path = "~/.cargo/advisory-db"
